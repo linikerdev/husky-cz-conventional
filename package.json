@@ -1,5 +1,5 @@
 {
-  "name": "commit-lint",
+  "name": "commitlint",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
